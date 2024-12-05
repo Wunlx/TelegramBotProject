@@ -1,6 +1,0 @@
-D:\ProjectsVisualStudio\TelegramBot\publish\TelegramBot.exe
-D:\ProjectsVisualStudio\TelegramBot\publish\TelegramBot.dll
-D:\ProjectsVisualStudio\TelegramBot\publish\TelegramBot.deps.json
-D:\ProjectsVisualStudio\TelegramBot\publish\TelegramBot.runtimeconfig.json
-D:\ProjectsVisualStudio\TelegramBot\publish\TelegramBot.pdb
-D:\ProjectsVisualStudio\TelegramBot\publish\Telegram.Bot.dll
